@@ -8,10 +8,9 @@
 }
 
 body {
-  font-family: Helvetica;
   font-size: 16px;
   line-height: 21px;
-  background: lightgrey;
+  background: #FF7034;
 }
 
 a {
@@ -72,4 +71,8 @@ header {
 
 h2 {
   text-align: center;
+}
+
+html {
+  font-family: 'Oswald', sans-serif;
 }
