@@ -109,6 +109,7 @@ header {
   background-color: white;
   width: 100%;
   position: fixed;
+  font-family: 'Oswald', sans-serif;
 }
 
 .nav {
@@ -118,15 +119,16 @@ header {
   font-weight: bold;
 }
 
+.testimonials {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
 .most {
   padding: 100px 20px 20px 20px;
   text-align: top;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 h2 {
   text-align: center;
-}
-
-html {
-  font-family: 'Oswald', sans-serif;
 }
