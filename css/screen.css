@@ -72,6 +72,10 @@ a {
   color: #800000;
 }
 
+a:hover {
+  color: #e87b24;
+}
+
 p {
   margin-bottom: 1.1em;
 }
@@ -139,7 +143,7 @@ header {
 }
 
 .most {
-  padding: 120px 20px 20px 20px;
+  padding: 54px 20px 20px 20px;
   text-align: top;
   font-family: 'Open Sans Condensed', sans-serif;
 }
