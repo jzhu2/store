@@ -130,12 +130,17 @@ header {
 
 .n {
   font-size: 30px;
-  padding: 5px 5px 5px 5px;
+  padding: 10px 5px 5px 10px;
+}
+
+.a, .i, .v {
+  padding: 0px 5px 10px 5px;
 }
 
 .right {
   float: right;
   font-size: 24px;
+  padding: 10px 6px 10px 5px;
 }
 
 .testimonials {
@@ -143,7 +148,7 @@ header {
 }
 
 .most {
-  padding: 54px 20px 20px 20px;
+  padding: 16px 20px 20px 20px;
   text-align: top;
   font-family: 'Open Sans Condensed', sans-serif;
 }
